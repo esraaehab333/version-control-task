@@ -4,7 +4,7 @@ class HelloWorld {
             System.out.println("Hello, ITI!");
         }
         void printHelloGit(){
-           
+            System.out.println("Hello, Git!");
         }
     }
 }
