@@ -7,7 +7,7 @@ class HelloWorld {
             System.out.println("Hello, C#!");
         }
         void printHelloGit(){
-            System.out.println("Hello, C++!");
+            System.out.println("Hello, C!");
         }
         void printHello(){
             printHelloITI();
